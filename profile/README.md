@@ -4,7 +4,7 @@
 <a href="https://retrobowl-2.pages.dev/" rel="nofollow">CLICK TO PLAY</a>
 <br><br><br>
 </h3>
-<p dir="auto"><a href="https://retrobowl-2.pages.dev/" rel="nofollow"><img src="https://private-user-images.githubusercontent.com/27490257/415033176-e32d572a-4e82-43d6-8a57-119a3c02835c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5OTcxMDEsIm5iZiI6MTc0MDk5NjgwMSwicGF0aCI6Ii8yNzQ5MDI1Ny80MTUwMzMxNzYtZTMyZDU3MmEtNGU4Mi00M2Q2LThhNTctMTE5YTNjMDI4MzVjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAzVDEwMTMyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlODc1MDRkMmJlMTg1ODE2MDY4ZGJiYWY2OTFmMTg0YTNkNDg4MjhiNDMxNWQ2ZTZkZDlmYTM5MGQyZTk2MmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.udavbpS80er5PrQ_Nq7vMJ76YpmQOZaWdbsZQJF0ArA" alt="image_fx_ (6)" secured-asset-link="" style="max-width: 100%;">
+<p dir="auto"><a href="https://retrobowl-2.pages.dev/" rel="nofollow"><img src="https://raw.githubusercontent.com/retro-bowl-unblocked-games-66-77/.github/refs/heads/main/retro.png" alt="retro bowl" secured-asset-link="" style="max-width: 100%;">
 </a></p>
 
 # Retro Bowl: The Ultimate Guide to Gameplay, Tips, and Strategies  
